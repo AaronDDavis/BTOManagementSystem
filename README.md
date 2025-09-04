@@ -27,10 +27,10 @@ The system is built around three main user roles, each with a distinct set of ca
 
 #### **HDB Manager**
 * **Project Lifecycle Management**: Create, edit, and delete BTO project listings.
-* **Control Visibility**: Toggle project visibility for applicants.
+* **Control Project Visibility**: Toggle project visibility for applicants.
 * **Staff Management**: Approve or reject HDB Officer registrations for projects.
 * **Application Oversight**: Approve or reject BTO applications and withdrawal requests.
-* **Reporting**: Generate filterable reports on applicants and their flat choices.
+* **Report Generation**: Generate filterable reports on applicants and their flat choices.
 * **Global Enquiry View**: View and reply to enquiries across ALL projects.
 
 <br>
