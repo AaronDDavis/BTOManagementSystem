@@ -1,0 +1,5 @@
+S1234567A, John, password, 35, SINGLE, , , , true, false, false
+T7654321B, Sarah, password, 40, MARRIED, , , , true, false, false
+S9876543C, Grace, password, 37, MARRIED, , , , true, false, false
+T2345678D, James, password, 30, MARRIED, , , , true, false, false
+S3456789E, Rachel, password, 25, SINGLE, , , , true, false, false
